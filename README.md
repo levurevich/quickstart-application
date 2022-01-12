@@ -1,4 +1,4 @@
-Werf quickstart sample application
+werf quickstart sample application
 =========
 
 This is voting application, which used as a sample in [the quickstart](https://werf.io/documentation/quickstart.html) of the [werf project](https://github.com/werf/werf).
